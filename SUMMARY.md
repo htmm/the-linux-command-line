@@ -11,5 +11,5 @@
 * [ဒီစာအုပ်ကို ဘယ်သူတွေဖတ်သင့်လဲ](introduction/who-should-read-this.md)
 * [ဒီစာအုပ်မှာ ဘာတွေပါလဲ](introduction/what-is-in-this-book.md)
 * [ဒီစာအုပ်ကို ဘယ်လိုဖတ်မလဲ](introduction/how-to-read-this-book.md)
-* [wth-i-dont-call-GNU-linux](introduction/wth-i-dont-call-gnu-linux.md)
+* [ဘာလို့ GNU/Linux လို့မခေါ်တာလဲ](introduction/wth-i-dont-call-gnu-linux.md)
 
