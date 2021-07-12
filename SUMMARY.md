@@ -12,5 +12,5 @@
 * [ဒီစာအုပ်မှာ ဘာတွေပါလဲ](introduction/what-is-in-this-book.md)
 * [ဒီစာအုပ်ကို ဘယ်လိုဖတ်မလဲ](introduction/how-to-read-this-book.md)
 * [ဘာလို့ GNU/Linux လို့မခေါ်တာလဲ](introduction/wth-i-dont-call-gnu-linux.md)
-* [Further Reading](introduction/further-reading.md)
+* [ဆက်လက် ဖတ်ရှုရန်](introduction/further-reading.md)
 
