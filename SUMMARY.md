@@ -14,3 +14,8 @@
 * [ဘာလို့ GNU/Linux လို့မခေါ်တာလဲ](introduction/wth-i-dont-call-gnu-linux.md)
 * [ဆက်လက် ဖတ်ရှုရန်](introduction/further-reading.md)
 
+## Part 1 - Learning The Shell
+
+* [အခန်း \( ၁ \) - shell ဆိုတာ ဘာလဲ](part-1-learning-the-shell/chapter-one-what-is-shell/README.md)
+  * [စာလုံးတွေထည့်ကြည့်ခြင်း](part-1-learning-the-shell/chapter-one-what-is-shell/first-input.md)
+
