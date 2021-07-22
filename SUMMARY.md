@@ -14,9 +14,9 @@
 * [ဘာလို့ GNU/Linux လို့မခေါ်တာလဲ](introduction/wth-i-dont-call-gnu-linux.md)
 * [ဆက်လက် ဖတ်ရှုရန်](introduction/further-reading.md)
 
-## Part 1 - Learning The Shell
+## CH-1 What is Shell <a id="chapter-one-what-is-shell"></a>
 
-* [အခန်း \( ၁ \) - shell ဆိုတာ ဘာလဲ](part-1-learning-the-shell/chapter-one-what-is-shell.md)
-* [စာလုံးတွေထည့်ကြည့်ခြင်း](part-1-learning-the-shell/first-input.md)
-* [mouse၊ focus အကြောင်းလေး](part-1-learning-the-shell/mouse-and-focus.md)
+* [အခန်း \( ၁ \) - shell ဆိုတာ ဘာလဲ](chapter-one-what-is-shell/chapter-one-what-is-shell.md)
+* [စာလုံးတွေထည့်ကြည့်ခြင်း](chapter-one-what-is-shell/first-input.md)
+* [mouse၊ focus အကြောင်းလေး](chapter-one-what-is-shell/mouse-and-focus.md)
 
