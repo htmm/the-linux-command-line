@@ -18,4 +18,5 @@
 
 * [အခန်း \( ၁ \) - shell ဆိုတာ ဘာလဲ](part-1-learning-the-shell/chapter-one-what-is-shell/README.md)
   * [စာလုံးတွေထည့်ကြည့်ခြင်း](part-1-learning-the-shell/chapter-one-what-is-shell/first-input.md)
+  * [mouse၊ focus အကြောင်းလေး](part-1-learning-the-shell/chapter-one-what-is-shell/mouse-and-focus.md)
 
